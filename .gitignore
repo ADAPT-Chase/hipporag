@@ -20,4 +20,9 @@ data/
 # Ignore the bash script to clear files under outputs and logs directories
 clear_outputs_and_logs.sh
 # Ignore the env file
-.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
